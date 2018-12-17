@@ -1,0 +1,11 @@
+[Nenra1]
+server: 192.168.2.251
+user: nen
+password: 654152
+port: 3306
+
+[Nenra]
+server: nen.duckdns.org
+user: nen
+password: 654152
+port: 30000
